@@ -12,6 +12,6 @@ You can try the chatbot here --> https://colab.research.google.com/github/eremop
 
 If you don't know what to type into the textbox you can try this: hi, types of chocolate, process, ingredients.
 
-You can say bye to close the chatbox.
+To close the textbox just type in "bye".
 
 (you can also play around with the code)
