@@ -8,7 +8,7 @@ Sources: https://simple.wikipedia.org/wiki/Chocolate
 
 I will add more info later on.
 
-You can try the chatbot here --> https://colab.research.google.com/github/eremophobia/ChocolateChatBot/blob/main/ChocolateChatBot.ipynb --> Press "Ctlr + F9" --> Click "Run anyway".
+You can try the chatbot here --> https://colab.research.google.com/github/eremophobia/ChocolateChatBot/blob/main/ChocolateChatBot.ipynb --> Press "Ctrl + F9" --> Click "Run anyway".
 
 If you don't know what to type into the textbox you can try these: "hi", "types of chocolate", "process", "ingredients", "how is chocolate made".
 
