@@ -1,4 +1,6 @@
 # ChocolateChatBot
+*(DISCONTINUED)*
+
 This bot will answer a few queries about chocolate.
 
 Information about chocolate is stored into an online HTML page i made.
