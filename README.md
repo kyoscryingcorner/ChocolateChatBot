@@ -1,5 +1,4 @@
 # ChocolateChatBot
-*(PRIVATED)*
 
 This bot will answer a few queries about chocolate.
 
